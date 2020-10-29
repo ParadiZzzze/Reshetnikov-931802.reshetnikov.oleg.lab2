@@ -1,0 +1,20 @@
+
+.main{
+	border: 1px solid forestgreen;
+	background-color:aquamarine;
+	display:flex;
+}
+.m1{
+	background-color:aquamarine;
+}
+.m2{
+	background-color:gray;
+	float:right;
+}
+.p{
+	background-color:#ffe5c0;
+	margin:2px;
+	width:500px;
+	height:100px;
+	float:left;
+}

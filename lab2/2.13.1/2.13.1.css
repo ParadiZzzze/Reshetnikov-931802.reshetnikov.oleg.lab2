@@ -1,0 +1,26 @@
+
+.main{
+	border: 2px solid forestgreen;
+	background-color:aquamarine;
+	display:flex;
+}
+.m1{
+	background-color:aquamarine;
+}
+.m2{
+	background-color:gray;
+}
+.p{
+	background-color:#ffe5c0;
+	margin:2px;
+	width:350px;
+	height:100px;
+	float:left;
+}
+img{
+	width:500px;
+	height:500px;
+}
+.f1{
+	display:flex;
+}
